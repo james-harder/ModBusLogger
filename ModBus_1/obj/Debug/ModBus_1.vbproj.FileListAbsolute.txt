@@ -1,0 +1,16 @@
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\bin\Debug\ModBus_1.exe.config
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\bin\Debug\ModBus_1.exe
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\bin\Debug\ModBus_1.pdb
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\bin\Debug\ModBus_1.xml
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\bin\Debug\EasyModbus.dll
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.vbprojAssemblyReference.cache
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.Form1.resources
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.Resources.resources
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.vbproj.GenerateResource.cache
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.vbproj.CoreCompileInputs.cache
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.vbproj.CopyComplete
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.exe
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.xml
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.pdb
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.SimpleTest.resources
+C:\Users\jxhar\code\ModBus\ModBus_1\ModBus_1\obj\Debug\ModBus_1.TimerForm.resources
